@@ -1,16 +1,15 @@
-## Reto UX : Banco Millenial
+# Kimoni - Banco Millenial
+
+"Kimoni" es la aplicación móvil del Banco del País, un banco ficticio creado para el reto de Laboratoria, el cual nos pedia crear un banco 100% digital, que apoye su proceso de transformación digital.
+Por ello "Kimoni", nombre que deriva del inglés "Keep your money" (guarda tu dinero) es una app creada para los millenials con el fin de manjear sus cuentas de una forma facil y segura, cuenta con 3 principales beneficios: Utilizar el número de celular como número de cuenta, manejar diferentes cuentas de banco en solo una, incentivar las transacciones bancarias acumulando Kimoni Points.
+
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)
 
 > Track: Common Core.  
 Unidad: Segundo  Proyecto UX.
 
-# **RETO UX : CREAR UN BANCO 100% DIGITAL DIRIGIDO PARA MILLENIALS.**
-
-El Banco del País es uno de los bancos más importante de tu país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simple se han propuesto crear un banco 100% digital dirigido para millenials.
-
-
-# ***DESARROLLO DEL PROYECTO***
+## ***DESARROLLO DEL PROYECTO***
 
 ### Día 1
 
