@@ -1,7 +1,9 @@
 # Kimoni - Banco Millenial
 
 "Kimoni" es la aplicación móvil del Banco del País, un banco ficticio creado para el reto de Laboratoria, el cual nos pedia crear un banco 100% digital, que apoye su proceso de transformación digital.
-Por ello "Kimoni", nombre que deriva del inglés "Keep your money" (guarda tu dinero) es una app creada para los millenials con el fin de manjear sus cuentas de una forma facil y segura, cuenta con 3 principales beneficios: Utilizar el número de celular como número de cuenta, manejar diferentes cuentas de banco en solo una, incentivar las transacciones bancarias acumulando Kimoni Points.
+Por ello "Kimoni", nombre que deriva del inglés *"Keep your money"(guarda tu dinero)* es una app creada para los millenials con el fin de manjear sus cuentas de una forma facil y segura, cuenta con 3 principales beneficios: Utilizar el número de celular como número de cuenta, manejar diferentes cuentas de banco en solo una, incentivar las transacciones bancarias acumulando Kimoni Points.
+
+![kimoni2](https://user-images.githubusercontent.com/32303175/38522505-6d70869e-3c0e-11e8-81aa-04be249e48a5.PNG)
 
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)
